@@ -3,6 +3,8 @@ This repository contains introductory datacube notebooks which are designed to w
 
 The Jupyter Hub interface is available at https://hub.stage.earth.dataobservatory.net/hub/login (login and permissions are required).
 
+The beginner's guide notebooks in this repository have been modified from [Digital Earth Africa](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) and are licenced under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
 Contact [jonathan.hodge@csiro.au](mailto:jonathan.hodge@csiro.au) for more information.
 
 This system is powered by CSIRO's EASI Hub and is in collaboration with the Data Observatory.
