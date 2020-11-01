@@ -1,4 +1,6 @@
 # Public Datacube Notebooks - Chile
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 This repository contains introductory datacube notebooks which are designed to work with the Chilean installation of CSIRO's datacube infrastructure on the Data Observatory's AWS tenancy.
 
 The Jupyter Hub interface is available at https://hub.stage.earth.dataobservatory.net/hub/login (login and permissions are required).
